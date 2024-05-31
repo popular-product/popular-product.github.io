@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://popular-product.github.io/a/sitemap.html
+Sitemap: https://popular-product.github.io/b/sitemap.html
+Sitemap: https://popular-product.github.io/c/sitemap.html
+Sitemap: https://popular-product.github.io/d/sitemap.html
